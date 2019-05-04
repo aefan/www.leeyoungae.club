@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 **电视剧：**     
 1999年电视剧《最爱是谁》：[链接](https://pan.baidu.com/s/178A-mxi_dABvke_vm7_Bfw) 提取码：eaek     
-2003年电视剧《大长今》韩语中字芒果TV版：  [链接](https://pan.baidu.com/s/1hF326yVrviR3Rv1TqQL91Q) 提取码：ok21 
+2003年电视剧《大长今》韩语中字芒果TV版：  [链接](https://pan.baidu.com/s/1hF326yVrviR3Rv1TqQL91Q) 提取码：ok21          
 2003年电视剧《大长今》汉语中字台版：      [链接](https://pan.baidu.com/s/1Ci8FGCsPYaPjVXZqcruiFA)提取码：thpn 
 
 
