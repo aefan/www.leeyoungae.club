@@ -1,6 +1,4 @@
-<div align=life> 
-<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=5413431&auto=0&height=66"></iframe>
-</div>                        
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5413431&auto=1&height=66"></iframe>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![newest](./newest.jpg)
