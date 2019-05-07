@@ -1,7 +1,6 @@
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
-sid=5413431&type=2&auto=0&width=320&height=66" 
-type="application/x-shockwave-flash"></object>
-
+<div align=life> 
+<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=5413431&auto=0&height=66"></iframe>
+</div>
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![newest](./newest.jpg)
 2019年即将上映最新作品《来找我(2019)》剧照       
