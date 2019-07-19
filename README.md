@@ -6,7 +6,7 @@
 ①.关注微博：**李英爱资讯台**         
 ②.关注微信公众号：**李英爱资讯台**       
 ③.关注Instagram：**leeyoungae_club**         
-④.关注Bilibli：**李英爱资讯台**          
+④.关注Bilibili：**李英爱资讯台**          
 ⑤.关注Youtube：**李英爱资讯台**       
 ⑥.关注Facebook主页：**@leeyoungaefanpage**      
 ⑦.关注百度贴吧：**李英爱吧**                   
